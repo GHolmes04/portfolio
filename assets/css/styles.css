@@ -538,6 +538,6 @@ iframe {
 @media (min-width: 1400px) {
   .container {
     width: 1360px;
-    background-color: blue;
+    background-color: white;
   }
 }
