@@ -536,6 +536,9 @@ iframe {
 /* Large devices (large desktops, 1200px and up) */
 /* Ex-Large devices (large desktops, 1200px and up) */
 @media (min-width: 1400px) {
+  #headContainer {
+    background-color: #9ad3de
+  }
   .container {
     width: 1360px;
     background-color: white;
